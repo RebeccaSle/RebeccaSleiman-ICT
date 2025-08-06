@@ -1,0 +1,27 @@
+.dashboard-container {
+  padding: 2rem;
+}
+
+.card-title {
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+.table th {
+  background-color: #f8f9fa;
+}
+
+.leave-status-approved {
+  color: green;
+  font-weight: bold;
+}
+
+.leave-status-rejected {
+  color: red;
+  font-weight: bold;
+}
+
+.leave-status-pending {
+  color: orange;
+  font-weight: bold;
+}
